@@ -1,0 +1,49 @@
+:Author: Techniack
+:Email: jerry@qresort.com
+:Date: 14/11/2017
+:Revision: prerelese 0.1.4
+:License: Private Domain
+
+= Project: GreenThumb Watering
+
+Describe your project
+
+== Step 1: Installation
+Instalation Instructions:
+
+1. Open this file
+2. Insert your own cayenne API key
+3. Create a dashboard on cayenne with V1 and V2 as tempature
+4. Upoad to board
+5. Install the ethernet cable and set up battery
+6. Upload the 
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the schematic schematic.png attached to the sketch
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ sketch123                => Arduino sketch folder
+  ├── sketch123.ino       => main Arduino file
+  ├── schematics.png      => (optional) an image of the required schematics
+  ├── layout.png          => (optional) an image of the layout
+  └── ReadMe.adoc         => this file
+....
+
+=== License
+This project is released under a Private License. 
+Please message me if you want to use our code for a project. I would love to help!
+
+=== Contributing
+To contribute to this project please contact Techniack <jerry@qresort.com>
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc [AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc [AsciiDoc cheatsheet]
